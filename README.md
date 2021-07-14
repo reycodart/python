@@ -5,5 +5,7 @@ Muğla Sıtkı Koçman Üniversitesi Bilişim Sistemleri Mühendisliği 1. sın�
                                                      💻REYHAN K.
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reycodart&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reycodart&show_icons=true&theme=radical)
+
 
  
